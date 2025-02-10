@@ -1,0 +1,18 @@
+<div class="form-input-edit">
+  <h2>{{ inputId ? 'Editar' : 'Crear' }} Campo</h2>
+  <form (ngSubmit)="saveInput()">
+    <div class="form-group">
+      <label for="name">Nombre del Campo:</label>
+      <input type="text" id="name" [(ngModel)]="input.name" name="name" required>
+    </div>
+    <div class="form-group">
+      <label for="type">Tipo de Campo:</label>
+      <select id="type" [(ngModel)]="input.type" name="type" required>
+        <option value="text">Texto</option>
+        <option value="number">Número</option>
+        <option value="date">Fecha</option>
+      </select>
+    </div>
+    <button type="submit">Guardar</button>
+  </form>
+</div>

@@ -1,0 +1,87 @@
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.deps.json
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Entity.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Interface.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Interface.pdb
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Entity.pdb
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.csproj.AssemblyReference.cache
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.AssemblyInfoInputs.cache
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.AssemblyInfo.cs
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.csproj.CoreCompileInputs.cache
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.P.3ED55B57.Up2Date
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\refint\MS_EF.Persistence.EFCore.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\ref\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.deps.json
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Entity.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Interface.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Interface.pdb
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Entity.pdb
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.csproj.AssemblyReference.cache
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.sourcelink.json
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.P.3ED55B57.Up2Date
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\refint\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\ref\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.deps.json
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Entity.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Interface.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Interface.pdb
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Entity.pdb
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.csproj.AssemblyReference.cache
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Pe.D5164810.Up2Date
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\refint\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\ref\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.deps.json
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Entity.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Interface.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Interface.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Entity.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.csproj.AssemblyReference.cache
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.AssemblyInfoInputs.cache
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.AssemblyInfo.cs
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Pe.D5164810.Up2Date
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\refint\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\ref\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.deps.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Entity.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Interface.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Interface.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\bin\Debug\net6.0\MS_EF.Domain.Entity.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.csproj.AssemblyReference.cache
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.AssemblyInfoInputs.cache
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.AssemblyInfo.cs
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.sourcelink.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Pe.D5164810.Up2Date
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\refint\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Persistence.EFCore\obj\Debug\net6.0\ref\MS_EF.Persistence.EFCore.dll

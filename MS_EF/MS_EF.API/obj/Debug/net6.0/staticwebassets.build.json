@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5G+KUwBmAaz2JMa5ZUq6Mpt/C8oLOVoEprqynShZjZs=",
+  "Source": "MS_EF.API",
+  "BasePath": "_content/MS_EF.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

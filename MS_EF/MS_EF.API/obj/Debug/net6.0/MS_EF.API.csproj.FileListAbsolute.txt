@@ -1,0 +1,272 @@
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\appsettings.Development.json
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\appsettings.json
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.exe
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.deps.json
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.runtimeconfig.json
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.pdb
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\Npgsql.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Application.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Entity.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Interface.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Dto.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Application.pdb
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Entity.pdb
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Interface.pdb
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Dto.pdb
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.AssemblyReference.cache
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.AssemblyInfoInputs.cache
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.AssemblyInfo.cs
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.CoreCompileInputs.cache
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.MvcApplicationPartsAssemblyInfo.cs
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.MvcApplicationPartsAssemblyInfo.cache
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.MS_EF.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_EF.API.props
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_EF.API.props
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_EF.API.props
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\scopedcss\bundle\MS_EF.API.styles.css
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.Up2Date
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\refint\MS_EF.API.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.pdb
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.genruntimeconfig.cache
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.API\obj\Debug\net6.0\ref\MS_EF.API.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\appsettings.json
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.exe
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.deps.json
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.runtimeconfig.json
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.pdb
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Application.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Entity.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Interface.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Dto.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Application.pdb
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Entity.pdb
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Interface.pdb
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Dto.pdb
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.AssemblyReference.cache
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.sourcelink.json
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.MS_EF.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_EF.API.props
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_EF.API.props
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_EF.API.props
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\scopedcss\bundle\MS_EF.API.styles.css
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.Up2Date
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\refint\MS_EF.API.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.pdb
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.genruntimeconfig.cache
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.API\obj\Debug\net6.0\ref\MS_EF.API.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\appsettings.json
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.exe
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.deps.json
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.runtimeconfig.json
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.pdb
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Application.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Entity.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Interface.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Dto.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Application.pdb
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Entity.pdb
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Interface.pdb
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Dto.pdb
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.AssemblyReference.cache
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.MS_EF.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_EF.API.props
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_EF.API.props
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_EF.API.props
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\scopedcss\bundle\MS_EF.API.styles.css
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.Up2Date
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\refint\MS_EF.API.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.pdb
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.genruntimeconfig.cache
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.API\obj\Debug\net6.0\ref\MS_EF.API.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\appsettings.json
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.staticwebassets.endpoints.json
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.exe
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.deps.json
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.runtimeconfig.json
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Application.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Entity.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Interface.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Dto.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Infrastructure.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Application.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Entity.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Interface.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Dto.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Infrastructure.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.AssemblyReference.cache
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.AssemblyInfoInputs.cache
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.AssemblyInfo.cs
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\scopedcss\bundle\MS_EF.API.styles.css
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.MS_EF.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.MS_EF.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_EF.API.props
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_EF.API.props
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_EF.API.props
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.Up2Date
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\refint\MS_EF.API.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.genruntimeconfig.cache
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.API\obj\Debug\net6.0\ref\MS_EF.API.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\appsettings.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.staticwebassets.endpoints.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.exe
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.deps.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.runtimeconfig.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.API.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Application.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Entity.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Interface.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Dto.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Infrastructure.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Persistence.EFCore.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Application.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Entity.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Domain.Interface.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Dto.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Infrastructure.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\bin\Debug\net6.0\MS_EF.Persistence.EFCore.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.AssemblyReference.cache
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.AssemblyInfoInputs.cache
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.AssemblyInfo.cs
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.sourcelink.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\scopedcss\bundle\MS_EF.API.styles.css
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.MS_EF.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.MS_EF.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.build.MS_EF.API.props
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MS_EF.API.props
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MS_EF.API.props
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.csproj.Up2Date
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\refint\MS_EF.API.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\MS_EF.API.genruntimeconfig.cache
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.API\obj\Debug\net6.0\ref\MS_EF.API.dll

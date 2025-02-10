@@ -1,0 +1,57 @@
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.deps.json
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.pdb
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.AssemblyInfoInputs.cache
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.AssemblyInfo.cs
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.csproj.CoreCompileInputs.cache
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Dto\obj\Debug\net6.0\refint\MS_EF.Dto.dll
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.pdb
+C:\01 - Proyectos\Otros\MS_EF\MS_EF.Dto\obj\Debug\net6.0\ref\MS_EF.Dto.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.deps.json
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.pdb
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.sourcelink.json
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Dto\obj\Debug\net6.0\refint\MS_EF.Dto.dll
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.pdb
+C:\Users\carpiom\source\repos\repo\MS_EF\MS_EF.Dto\obj\Debug\net6.0\ref\MS_EF.Dto.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.deps.json
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.pdb
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Dto\obj\Debug\net6.0\refint\MS_EF.Dto.dll
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.pdb
+C:\Users\carpiom\source\repos\MS_EF\MS_EF.Dto\obj\Debug\net6.0\ref\MS_EF.Dto.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.deps.json
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.AssemblyInfoInputs.cache
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.AssemblyInfo.cs
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Dto\obj\Debug\net6.0\refint\MS_EF.Dto.dll
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.pdb
+C:\Users\carpiom\Downloads\MS_EF\MS_EF.Dto\obj\Debug\net6.0\ref\MS_EF.Dto.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.deps.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Dto\bin\Debug\net6.0\MS_EF.Dto.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.AssemblyInfoInputs.cache
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.AssemblyInfo.cs
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.sourcelink.json
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Dto\obj\Debug\net6.0\refint\MS_EF.Dto.dll
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Dto\obj\Debug\net6.0\MS_EF.Dto.pdb
+C:\Users\carpiom\Downloads\prueba_-FULLSTACK\MS_EF\MS_EF.Dto\obj\Debug\net6.0\ref\MS_EF.Dto.dll

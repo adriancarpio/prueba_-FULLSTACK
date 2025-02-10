@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MS_EF.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "MS_EF.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "MS_EF.Domain.Interface.dll": {}
+        }
+      },
+      "MS_EF.Domain.Entity/1.0.0": {
+        "runtime": {
+          "MS_EF.Domain.Entity.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MS_EF.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MS_EF.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

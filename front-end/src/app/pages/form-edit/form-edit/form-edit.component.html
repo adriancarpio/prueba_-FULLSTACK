@@ -1,0 +1,14 @@
+<div class="form-edit">
+  <h2>{{ formId ? 'Editar' : 'Crear' }} Formulario</h2>
+  <form (ngSubmit)="saveForm()">
+    <div class="form-group">
+      <label for="name">Nombre del Formulario:</label>
+      <input type="text" id="name" [(ngModel)]="form.name" name="name" required>
+    </div>
+    <div class="form-group">
+      <label for="description">Descripción:</label>
+      <input type="text" id="description" [(ngModel)]="form.description" name="description" required>
+    </div>
+    <button type="submit">Guardar</button>
+  </form>
+</div>

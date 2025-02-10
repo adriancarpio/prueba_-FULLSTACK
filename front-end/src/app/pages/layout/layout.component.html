@@ -1,0 +1,7 @@
+
+    <div class="form-list">
+      <h2>Listado de Formularios</h2>
+      <div *ngFor="let form of forms" class="form-button">
+        <button (click)="onSelectForm(form.id)">{{ form.name }}</button>
+      </div>
+    </div>
