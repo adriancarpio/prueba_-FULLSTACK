@@ -12,13 +12,17 @@ CREATE TABLE inputs (
     CONSTRAINT fk_form FOREIGN KEY (form_id) REFERENCES forms(id) ON DELETE CASCADE
 );
 
-INSERT INTO forms (name) VALUES ('Formulario de Contacto');
-INSERT INTO forms (name) VALUES ('Registro de Usuario');
+-- Insertar datos de prueba en forms
+INSERT INTO forms (name) VALUES ('Personas');
+INSERT INTO forms (name) VALUES ('Mascotas');
 
-INSERT INTO inputs (form_id, name, type, required) VALUES (1, 'Nombre', 'text', TRUE);
-INSERT INTO inputs (form_id, name, type, required) VALUES (1, 'Correo Electrónico', 'email', TRUE);
-INSERT INTO inputs (form_id, name, type, required) VALUES (1, 'Mensaje', 'textarea', FALSE);
+-- Insertar datos de prueba para el formulario Personas
+INSERT INTO inputs (form_id, name, type, required) VALUES (1, 'Nombres', 'text', TRUE);
+INSERT INTO inputs (form_id, name, type, required) VALUES (1, 'Fecha de Nacimiento', 'date', TRUE);
+INSERT INTO inputs (form_id, name, type, required) VALUES (1, 'Estatura', 'number', FALSE);
 
-INSERT INTO inputs (form_id, name, type, required) VALUES (2, 'Usuario', 'text', TRUE);
-INSERT INTO inputs (form_id, name, type, required) VALUES (2, 'Contraseña', 'password', TRUE);
-INSERT INTO inputs (form_id, name, type, required) VALUES (2, 'Confirmar Contraseña', 'password', TRUE);
+-- Insertar datos de prueba para el formulario Mascotas
+INSERT INTO inputs (form_id, name, type, required) VALUES (2, 'Especie', 'text', TRUE);
+INSERT INTO inputs (form_id, name, type, required) VALUES (2, 'Raza', 'text', FALSE);
+INSERT INTO inputs (form_id, name, type, required) VALUES (2, 'Color', 'text', FALSE);
+INSERT INTO inputs (form_id, name, type, required) VALUES (2, 'Nombre', 'text', TRUE);
